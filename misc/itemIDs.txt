@@ -1,0 +1,24 @@
+1. Small Health Potion
+2. Medium Health Potion
+3. Large Health Potion
+4. Ultra Health Potion
+
+
+
+
+
+10. Wheat
+11. Carrot
+12. Potato
+13. Melon
+15. Pumpkin
+
+
+
+
+100. Wheat seed
+101. Carrot seed
+102. Potato seed
+103. Beetroot seed
+104. Melon seed
+105. Pumpkin seed

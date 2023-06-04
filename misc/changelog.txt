@@ -1,0 +1,77 @@
+NAME = Bot made for Discord in python using nextcord
+
+VERSION = '1.0'
+
+FEATURES
+
+        The discord bot has a diverse set of features, including:
+
+            - Moderation commands, all these commands require the user to have the specific permission in order to use them:
+
+                Kick, Ban / Unban members with just a slash command, the output message by the bot is a ephemeral message, so only the user who used the command can see it.
+
+                Clear messages in bulk, the bot will delete the messages in bulk, and will send a ephemeral message to the user who used the command.
+
+                Warn members, made to be used mostly for fun since it doesn't have a warn list, currently doesn't need any special permissions and can be used by anyone.
+                This command will be modified in the future to require a specific permission or to be able to be manualy enabled/disabled by the server owner or admins.
+
+                Slowmode, this command will set the slowmode of the channel to the specified time, it will also send a ephemeral message to the user who used the command.
+
+                Automated Welcome message! The bot will send a welcome message to the user who joined the server, the message can be customized by the server owner or admins.
+            
+
+            - Fun commands, all these commands don't require any special permissions to be used:
+
+                8ball, this command will give you a random answer to your question, the answer is chosen randomly from a list of answers.
+
+                Coinflip, this command will flip a coin and will give you the result. Heads or tails?
+
+                Choice, give 2 options and the bot will choose one of them for you. Doesn't work with more than 2 options currently.
+
+                Say, this command will make the bot say whatever you want, simple as that.
+
+                Dice, this command will roll a dice and will give you the result. The dice can have up to 100 sides.
+
+                RPS, this command will play rock paper scissors with you, the bot will choose a random option and will compare it with yours.
+
+                Stonks, like memes but... stonks.
+
+                Meme, this command will send a random meme, currently searching a good quality API to use.
+
+            
+            - Utility commands, all these commands don't require any special permissions to be used:
+
+                Userinfo, this command will give you information about the user you mention, if you don't mention anyone it will give you your own information.
+
+                Serverinfo, this command will give you information about the server you are currently in.
+
+                Avatar, this command will give you the avatar of the user you mention, if you don't mention anyone it will give you your own avatar.
+
+                Ping, this command will send back a message with the bot's latency in milliseconds.
+
+                Invite, this command will send you the bot's invite link.
+
+                Help, this command will send you a list of all the commands the bot has.
+
+                Admin, similar to help, but with admin commands.
+
+                Rpg, this command will send you a list of all the commands the bot has for the RPG game.
+
+            
+            - RPG commands, a small RPG like minigame inside the bot, currently at a very early stage of development so not a lot of features included:
+
+                Create your own character! Choose from 3 classes, Warrior, Mage and Rogue, each class has different stats
+
+                Fight monsters! Fight monsters and gain experience and gold, the higher your level the harder the monsters will be.
+
+                Level up! Level up your character and increase your stats, the higher your level the more stats you will get.
+
+                Zones! Explore different zones and fight different monsters, each zone has different monsters and different levels, to move on zones you have to beat each zone's boss.
+
+                Trade coins with your friends!
+
+                Duel your friends! No money involved, just for fun, if you want, of course.
+
+
+
+
